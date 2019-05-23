@@ -1,3 +1,3 @@
 # pafAssignment
 
-clone it open project with eclipse.we add the members functions in the separaste projects
+clone the project and open project with eclipse.we add the members functions in the separate projects
